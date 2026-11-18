@@ -2,6 +2,7 @@
 
 **Course:** SDA-AIE-213 — LLM Application Engineering  
 **Team Members:** Reema Almujadei & Lina Alhuwaymil 
+
 **Environment:** Google Colab | Python 3 | CPU  
 **Project Duration:** 4 Days
 
